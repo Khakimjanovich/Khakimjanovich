@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khakimjanovich
-- 👀 I’m interested in Laravel and Vue
-- 🌱 I’m currently learning GoLang and Swagger
+- 👀 I’m interested in Laravel and Vue 
+- 🌱 I’m currently learning GoLang and Swagger and GraphQL
 - 💞️ I’m looking to collaborate on NOTHING
 - 📫 How to reach me t.me/khakimjanovich
 
