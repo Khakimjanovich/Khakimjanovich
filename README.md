@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Vue3, Nestjs**
 
-- 👨‍💻 All of my projects are available at [github.com/khakimjanovich](github.com/khakimjanovich)
-
-- 💬 Ask me about **Vanillajs, php, Laravel**
+- 💬 Ask me about **Vanillajs, php, Laravel, Nestjs**
 
 - 📫 How to reach me **t.me/khakimjanovich**
 
