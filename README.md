@@ -23,3 +23,13 @@
 <h3 align="left">Trophies:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khakimjanovich)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<h3 align="left">Github stats:</h3>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=khakimjanovich&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=khakimjanovich&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+
+<h3 align="left">Most used languages:</h3>
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khakimjanovich&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true)
